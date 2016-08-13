@@ -1,0 +1,22 @@
+".text.ux":
+
+    'Switch':
+        'prefix':'fuse-ux-switch'
+        'body' :
+        """
+          <Switch/>
+        """
+
+    'Switch Left':
+        'prefix':'fuse-ux-switch-left'
+        'body' :
+        """
+        <Switch Alignment="Left"/>
+        """
+
+    'Switch Right':
+        'prefix':'fuse-ux-switch-right'
+        'body' :
+        """
+        <Switch Alignment="Right"/>
+        """

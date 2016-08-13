@@ -1,0 +1,15 @@
+".text.ux":
+
+    'Text':
+        'prefix':'fuse-ux-text'
+        'body' :
+        """
+        <Text FontSize="30">Hello, world!</Text>
+        """
+
+    'Text':
+        'prefix':'fuse-ux-text-50'
+        'body' :
+        """
+        <Text FontSize="50">Hello, world!</Text>
+        """

@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle fuse-snippets",
+        "command": "fuse-snippets:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "fuse-snippets",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "fuse-snippets:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
